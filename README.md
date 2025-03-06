@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning analise e desenvolvimento de sistemas 
 - 💞️ I’m looking to collaborate on java, python  
 - 📫 How to reach me meu email é pedrohvon@gmail.com
-- 😄 Pronouns: Pedro Von 
+- 😄 Pronouns: Ele 
 - ⚡ Fun Fact: Sou formado em educação física 
  
 <!---
